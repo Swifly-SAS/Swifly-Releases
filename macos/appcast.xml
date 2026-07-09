@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Swifly</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 09 Jul 2026 17:58:42 +0000</pubDate>
+            <sparkle:version>877</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Swifly-SAS/Swifly-Releases/releases/download/macos-v1.0.1/Swifly-1.0.1.dmg" length="42995330" type="application/octet-stream" sparkle:edSignature="zsEH844CJzDZ5frv9vc8p81K5qouWPlp+uDaKVfEbpuB50HuGjtz32SYbP13levuidc3vH0RptzgHXVGQUM1DA=="/>
+        </item>
+    </channel>
+</rss>
