@@ -3,6 +3,15 @@
     <channel>
         <title>Swifly</title>
         <item>
+            <title>1.0.11</title>
+            <pubDate>Fri, 24 Jul 2026 16:04:41 +0000</pubDate>
+            <sparkle:version>943</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Swifly-SAS/Swifly-Releases/releases/download/macos-v1.0.11/Swifly-1.0.11.dmg" length="44866689" type="application/octet-stream" sparkle:edSignature="QpX+SDmlE5JIweasx6mYVlZ2ffjt6KebuSyDoNpCzahFCTswnCMn/7ulR2mdSk7p32F0RLkukHf0Pu/YibcXAg=="/>
+        </item>
+        <item>
             <title>1.0.10</title>
             <pubDate>Thu, 23 Jul 2026 14:37:09 +0000</pubDate>
             <sparkle:version>938</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/Swifly-SAS/Swifly-Releases/releases/download/macos-v1.0.9/Swifly-1.0.9.dmg" length="44850575" type="application/octet-stream" sparkle:edSignature="2uNxQO749x6lReFRllBlRpTaZjW3RoYBFWZZXu/HnPjtEbujIbsntMycttOPHwbMlvX0OMM2K9OEbzlGofxFCw=="/>
-        </item>
-        <item>
-            <title>1.0.8</title>
-            <pubDate>Tue, 21 Jul 2026 11:22:45 +0000</pubDate>
-            <sparkle:version>935</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Swifly-SAS/Swifly-Releases/releases/download/macos-v1.0.8/Swifly-1.0.8.dmg" length="44856404" type="application/octet-stream" sparkle:edSignature="gP6whp2mngEyWKQ4H6A3kKQBo7iLwmdgeoFEAEcQaMfDctN7nGEWcqf1rBhYEI5sJpswhhefhlQmTX4zJsNBBA=="/>
         </item>
     </channel>
 </rss>
