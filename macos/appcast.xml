@@ -3,6 +3,15 @@
     <channel>
         <title>Swifly</title>
         <item>
+            <title>1.0.12</title>
+            <pubDate>Fri, 24 Jul 2026 17:20:00 +0000</pubDate>
+            <sparkle:version>944</sparkle:version>
+            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Swifly-SAS/Swifly-Releases/releases/download/macos-v1.0.12/Swifly-1.0.12.dmg" length="44910856" type="application/octet-stream" sparkle:edSignature="eQPX5B1fmiU7puhmHwie+Cqui/Bi7OevmBaKrKKYOS9K88WDUVG9ywlc4ujULTMAFVioqbjZNYhE3lSJPilSDQ=="/>
+        </item>
+        <item>
             <title>1.0.11</title>
             <pubDate>Fri, 24 Jul 2026 16:04:41 +0000</pubDate>
             <sparkle:version>943</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/Swifly-SAS/Swifly-Releases/releases/download/macos-v1.0.10/Swifly-1.0.10.dmg" length="44858162" type="application/octet-stream" sparkle:edSignature="MPAZ4AWiFKaV+VM1vq6b4Chdkxv/kyw84J5sKCSqexjyAZIBlwDbeeA3a/yizmynNVD6zsJ2gKnL7j3DKTFpCQ=="/>
-        </item>
-        <item>
-            <title>1.0.9</title>
-            <pubDate>Tue, 21 Jul 2026 14:17:52 +0000</pubDate>
-            <sparkle:version>936</sparkle:version>
-            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Swifly-SAS/Swifly-Releases/releases/download/macos-v1.0.9/Swifly-1.0.9.dmg" length="44850575" type="application/octet-stream" sparkle:edSignature="2uNxQO749x6lReFRllBlRpTaZjW3RoYBFWZZXu/HnPjtEbujIbsntMycttOPHwbMlvX0OMM2K9OEbzlGofxFCw=="/>
         </item>
     </channel>
 </rss>
