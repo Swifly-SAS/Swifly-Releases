@@ -3,6 +3,15 @@
     <channel>
         <title>Swifly</title>
         <item>
+            <title>1.0.24</title>
+            <pubDate>Fri, 04 Sep 2026 10:23:05 +0000</pubDate>
+            <sparkle:version>1012</sparkle:version>
+            <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Swifly-SAS/Swifly-Releases/releases/download/macos-v1.0.24/Swifly-1.0.24.dmg" length="44901355" type="application/octet-stream" sparkle:edSignature="s2i32dNqhMg56vdmYNoQ6HjA666bfdis5soWtgseiQPKobmlZP2tTpCIW5ptAcsDL0bDjl4A/1d5ZZyVrES5Cg=="/>
+        </item>
+        <item>
             <title>1.0.23</title>
             <pubDate>Fri, 28 Aug 2026 09:33:28 +0000</pubDate>
             <sparkle:version>1009</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/Swifly-SAS/Swifly-Releases/releases/download/macos-v1.0.22/Swifly-1.0.22.dmg" length="44899086" type="application/octet-stream" sparkle:edSignature="/eME9VghFceenOiBE9jXqi2jLMtiTCfXf9zH1HNZHcjdDHVnojkRqWrNihbOYorcv7IaxbL3wLBFZBeUYLuRDg=="/>
-        </item>
-        <item>
-            <title>1.0.21</title>
-            <pubDate>Tue, 25 Aug 2026 12:22:39 +0000</pubDate>
-            <sparkle:version>1006</sparkle:version>
-            <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Swifly-SAS/Swifly-Releases/releases/download/macos-v1.0.21/Swifly-1.0.21.dmg" length="44898105" type="application/octet-stream" sparkle:edSignature="vjtzxIZpgeHstiWNZYobJsHU8Kpx0UQeQ10k1x+7v99S20hZBzAXVFrugYy7+zjk2yce1o/G1ZTUl0zjU7cGDA=="/>
         </item>
     </channel>
 </rss>
