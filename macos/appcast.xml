@@ -3,6 +3,15 @@
     <channel>
         <title>Swifly</title>
         <item>
+            <title>1.0.32</title>
+            <pubDate>Tue, 22 Sep 2026 15:36:23 +0000</pubDate>
+            <sparkle:version>1072</sparkle:version>
+            <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Swifly-SAS/Swifly-Releases-macOS/releases/download/macos-v1.0.32/Swifly-1.0.32.dmg" length="45599466" type="application/octet-stream" sparkle:edSignature="VZTwWyJ4KMAwJx/RFbWf4Laxj8Gy7P6kOtsRh4MJdrEAujNQRBdHiIRFjtPZBKTDk5wV1hbMP2vQLxxPERo7Aw=="/>
+        </item>
+        <item>
             <title>1.0.31</title>
             <pubDate>Sat, 19 Sep 2026 11:58:53 +0000</pubDate>
             <sparkle:version>1061</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/Swifly-SAS/Swifly-Releases-macOS/releases/download/macos-v1.0.30/Swifly-1.0.30.dmg" length="45174668" type="application/octet-stream" sparkle:edSignature="hrNWayDLECZosTbuSxKZ8rhet+14VsptgnhJJiU9GaMilErAMrR7FL2Coyz05rsC0/1nL0HLKzfSOhX3/uA6Cw=="/>
-        </item>
-        <item>
-            <title>1.0.29</title>
-            <pubDate>Thu, 17 Sep 2026 08:20:53 +0000</pubDate>
-            <sparkle:version>1038</sparkle:version>
-            <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Swifly-SAS/Swifly-Releases-macOS/releases/download/macos-v1.0.29/Swifly-1.0.29.dmg" length="45057653" type="application/octet-stream" sparkle:edSignature="kGo5ICzPaj/+LMADctih2KxwYFncaE5F9lA9SVGGj7cKKWOzEFd8WUHz0aDGYae5zSf+JyeoREwh8A5nDjZ6AA=="/>
         </item>
     </channel>
 </rss>
